@@ -21,7 +21,6 @@ using both **distributed acoustic sensing (DAS)**  and **dense nodal seismic arr
 I plan to pursue a **PhD in Geophysics** at the **University of Science and Technology of China (USTC)** 
 under the guidance of [Prof. Yao Huajian](http://yaolab.ustc.edu.cn).
 
-My first Publication post is in preparation：
-Yusong Yuan, Hongrui Qiu^*, et al. (2026) High-Resolution Seafloor Sediment Imaging near Monterey Bay Using Distributed Acoustic Sensing with Advanced Surface-Wave Denoising, in preparation.
+My first Publication post is in preparation：**Y. Yuan**, H. Qiu^*^, et al. (2026). High-Resolution Seafloor Sediment Imaging near Monterey Bay Using Distributed Acoustic Sensing with Advanced Surface-Wave Denoising, in preparation.
 
 This website, created using the [AcademicPages](https://github.com/academicpages/academicpages.github.io) template, is still under development.
