@@ -10,15 +10,15 @@ redirect_from:
 
 Welcome to Yusong's personal website!
 
-I am a novice seismologist currently researching **dense seismic array signal processing and imaging**. I'm also an amateur music lover, literature enthusiast, and enjoy swimming, table tennis and hiking.
+I am a novice seismologist currently researching **dense seismic array signal processing and imaging**. I am passionate about exploring information on the source processes and wave propagation media from seismic signal recordeding. I'm also an amateur music lover, literature enthusiast, and enjoy swimming, table tennis and hiking.
 
 I am now a fourth year undergraduate student majoring in **Geophysics** at **China University of Geosciences (Wuhan)**. 
-I expect to graduate in **June 2026**. During my studies, I received the National Scholarship of China and 
-the Best Individual Award in the “Innovation Cup” Chinese University Students Geophysics Knowledge Competition, among other honors. 
+I expect to graduate in **June 2026**. During my studies, I received the National Scholarship and the First Prize and Best 
+Individual Award in the “Innovation Cup” Chinese University Students Geophysics Knowledge Competition, among other honors. 
 I am currently working under the guidance of [Prof. Qiu Hongrui](https://grzy.cug.edu.cn/qiuhongrui/zh_CN/index.htm), 
 researching dense seismic array surface wave denoising and higher mode surface wave separation methods, and their applications in seabed and fault zone imaging, 
 using both **distributed acoustic sensing (DAS)**  and **dense nodal seismic array** technologies. In **September 2026**, 
-I plan to pursue a **PhD in Geophysics** at the **University of Science and Technology of China (USTC)** 
+I plan to begin pursuing a **PhD in Geophysics** at the **University of Science and Technology of China (USTC)** 
 under the guidance of [Prof. Yao Huajian](http://yaolab.ustc.edu.cn).
 
 My first Publication post is in preparation：**Y. Yuan**, H. Qiu*, et al. (2026). High-Resolution Seafloor Sediment Imaging near Monterey Bay Using Distributed Acoustic Sensing with Advanced Surface-Wave Denoising, in preparation.
